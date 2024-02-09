@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Adarkwa Godfred Boakye</h1>
-<h3 align="left">ntroducing the fashion-forward front-end developer extraordinaire! With a knack for weaving magic with React and Next.js, I transform pixels into polished masterpieces. Whether crafting code or crafting trends, I'm at the cutting edge of tech, fashion, and all things fabulous!" ✨💻👗</h3>
+<h3 align="left">A passionate  front-end developer extraordinaire! With a knack for weaving magic with React and Next.js, I transform pixels into polished masterpieces. Whether crafting code or crafting trends, I'm at the cutting edge of tech, fashion, and all things fabulous!" ✨💻👗</h3>
 
 - 🌱 I’m currently learning **three js**
 
