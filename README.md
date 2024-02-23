@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **react, next js.**
 
+- 📫 How to reach me **adarkwagodfred7075@icloud.com**
+
 - ⚡ Fun fact **I have a secret superpower: rubber duck debugging. When I'm stuck on a problem, I explain my code to a rubber duck, often finding the solution in the process. It's like magic, but with debugging rubber ducks!.**
 
 <h3 align="left">Connect with me:</h3>
