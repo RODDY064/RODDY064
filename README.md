@@ -1,3 +1,10 @@
+body {
+  background-color: #09050f; 
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+
+
 <h1 align="left">Hi 👋, I'm Adarkwa Godfred Boakye</h1>
 <h3 align="left">A passionate  front-end developer extraordinaire! With a knack for weaving magic with React and Next.js, I transform pixels into polished masterpieces. Whether crafting code or crafting trends, I'm at the cutting edge of tech, fashion, and all things fabulous!" ✨💻👗</h3>
 
