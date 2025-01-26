@@ -1,14 +1,12 @@
 
-<h1 align="left">Hi 👋, I'm Adarkwa Godfred Boakye</h1>
-<h3 align="left">A passionate  front-end developer extraordinaire! With a knack for weaving magic with React and Next.js, I transform pixels into polished masterpieces. Whether crafting code or crafting trends, I'm at the cutting edge of tech, fashion, and all things fabulous!" ✨💻👗</h3>
+<h1 align="left">Hi 👋, I'm Roddy</h1>
+<h3 align="left">A passionate product designer extraordinaire! With a knack for weaving magic with design tools and coding, I transform ideas into polished, user-centered experiences. Whether crafting interfaces or setting trends, I'm at the cutting edge of tech, design, and all things fabulous!" ✨💻👗✨💻👗</h3>
 
-- 🌱 I’m currently learning **three js**
+- 🌱 I’m currently learning **video editing**
 
-- 💬 Ask me about **react, next js.**
+- 💬 Ask me about **design, react, next js.**
 
 - 📫 How to reach me **adarkwagodfred7075@icloud.com**
-
-- ⚡ Fun fact **I have a secret superpower: rubber duck debugging. When I'm stuck on a problem, I explain my code to a rubber duck, often finding the solution in the process. It's like magic, but with debugging rubber ducks!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
