@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Roddy</h1>
+<h1 align="left">Hi 👋, I'm Ādark</h1>
 <h3 align="left">A passionate product designer extraordinaire! With a knack for weaving magic with design tools and coding, I transform ideas into polished, user-centered experiences. Whether crafting interfaces or setting trends, I'm at the cutting edge of tech, design, and all things fabulous!" ✨💻👗✨💻👗</h3>
 
 - 🌱 I’m currently learning **video editing**
